@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(15, 4, 29);
+}
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: rgb(149, 18, 175);
+}
+
+#container {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+
+}
+
+#vid {
+    text-align: center;
+    
+}
