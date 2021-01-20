@@ -63,8 +63,15 @@ iframe {
     h1 {
         margin: 50px;
     }
+@media only screen and (max-width: 500px) {
+    iframe {
+        width: 350px;
+        height: 200px;
+    }
+    h1 {
+        margin: 25px;
+    }
 
-  }
 /*---------------Footer---------------*/
 footer {
     background-color: rgb(42, 18, 87);
