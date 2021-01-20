@@ -64,17 +64,6 @@ iframe {
         margin: 50px;
     }
 }
-/*---------------Media 600px---------------*/
-@media only screen and (max-width: 500px) {
-    iframe {
-        width: 350px;
-        height: 150px;
-    }
-    
-    h1 {
-        margin: 25px;
-    }
-}
 
 /*---------------Footer---------------*/
 footer {
