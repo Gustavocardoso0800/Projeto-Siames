@@ -67,8 +67,8 @@ iframe {
 /*---------------Media 500px---------------*/
 @media only screen and (max-width: 500px) {
     iframe {
-        width: 350px;
-        height: 250px;
+        width: 250px;
+        height: 141px;
     }
 
     h1 {
